@@ -19,7 +19,7 @@ const tx = {
   data: bytecode,
   quota: 1000000,
   chainId: 1,
-  version,
+  version: 2,
   validUntilBlock: 999999,
   value: '0x0'
 };
